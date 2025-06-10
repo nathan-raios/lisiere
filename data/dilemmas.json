@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1749553861338",
+    "question": "yo",
+    "type": "choice",
+    "choices": [
+      "yep",
+      "no"
+    ],
+    "nextDilemmas": {},
+    "order": 0,
+    "createdAt": "2025-06-10T11:11:01.338Z"
+  },
+  {
+    "id": "1749555557301",
+    "question": "hummmmmmmmmmmm",
+    "type": "freeText",
+    "choices": [
+      ""
+    ],
+    "nextDilemmas": {},
+    "order": 1,
+    "createdAt": "2025-06-10T11:39:17.301Z"
+  },
+  {
+    "id": "1749557125761",
+    "question": "t",
+    "type": "freeText",
+    "choices": [
+      ""
+    ],
+    "nextDilemmas": {},
+    "order": 0,
+    "createdAt": "2025-06-10T12:05:25.762Z"
+  },
+  {
+    "id": "1749557281695",
+    "question": "oui",
+    "type": "choice",
+    "choices": [
+      "o",
+      "n"
+    ],
+    "nextDilemmas": {},
+    "order": 4,
+    "createdAt": "2025-06-10T12:08:01.695Z"
+  }
+]
